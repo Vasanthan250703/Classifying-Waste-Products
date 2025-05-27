@@ -52,14 +52,14 @@ Both models use the pre-trained **VGG16** from Keras with custom dense layers on
 
 ### 🔍 Extract Features Model
 - Loss Curve:
-  ![Extract_Features_Model _Loss Curve](https://github.com/user-attachments/assets/c6091c65-69a6-410e-b346-4d1dff5b723d)
+-![Extract_Features_Model _Loss Curve](https://github.com/user-attachments/assets/c6091c65-69a6-410e-b346-4d1dff5b723d)
 
 
 - Accuracy Curve:
-  ![Extract_Features_Model _Accuracy Curve](https://github.com/user-attachments/assets/733c5d74-732f-49af-ac3a-d7349110eabe)
+-![Extract_Features_Model _Accuracy Curve](https://github.com/user-attachments/assets/733c5d74-732f-49af-ac3a-d7349110eabe)
 
 - Sample Prediction:
-  ![extract_features_model](https://github.com/user-attachments/assets/b3bdd9a6-83dd-4247-bb1b-dd48406cbfb0)
+-![extract_features_model](https://github.com/user-attachments/assets/b3bdd9a6-83dd-4247-bb1b-dd48406cbfb0)
 
 
 ---
@@ -72,7 +72,7 @@ Both models use the pre-trained **VGG16** from Keras with custom dense layers on
 - ![Fine_Tuned_Model _Accuracy Curve](https://github.com/user-attachments/assets/55f4097d-707b-423d-9965-147bf8266f29)
 
 - Sample Prediction:
-  ![fine_tuned_model](https://github.com/user-attachments/assets/01032901-36dd-4e66-b68a-c3337b50fb7f)
+-![fine_tuned_model](https://github.com/user-attachments/assets/01032901-36dd-4e66-b68a-c3337b50fb7f)
 
 
 
