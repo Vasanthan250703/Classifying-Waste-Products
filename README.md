@@ -52,10 +52,11 @@ Both models use the pre-trained **VGG16** from Keras with custom dense layers on
 
 ### 🔍 Extract Features Model
 - Loss Curve:
-- ![Uploading Extract_Features_Model _Loss Curve.png…]()
+  ![Extract_Features_Model _Loss Curve](https://github.com/user-attachments/assets/c6091c65-69a6-410e-b346-4d1dff5b723d)
+
 
 - Accuracy Curve:
-- ![Extract_Features_Model _Accuracy Curve](https://github.com/user-attachments/assets/733c5d74-732f-49af-ac3a-d7349110eabe)
+  ![Extract_Features_Model _Accuracy Curve](https://github.com/user-attachments/assets/733c5d74-732f-49af-ac3a-d7349110eabe)
 
 - Sample Prediction:
   ![extract_features_model](https://github.com/user-attachments/assets/b3bdd9a6-83dd-4247-bb1b-dd48406cbfb0)
