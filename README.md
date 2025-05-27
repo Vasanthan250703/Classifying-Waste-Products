@@ -61,7 +61,7 @@ Both models use the pre-trained **VGG16** from Keras with custom dense layers on
 - Loss Curve
 - Accuracy Curve
 - Sample Prediction
-  [finetuned_model.png]
+  [fine_tuned_model.png]
 
 
 
