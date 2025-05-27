@@ -50,17 +50,18 @@ Both models use the pre-trained **VGG16** from Keras with custom dense layers on
 
 ## 📸 Sample Output
 
-### 🔍 Extract Features Model  
-- **Loss & Accuracy Curves**  
-  ![Extract Features Model - Loss Curve](Extract Features Model - Loss Curve.png)  
-  ![Extract Features Model - Accuracy Curve](extract_feat_accuracy_curve.png)
+### 🔍 Extract Features Model
+- Loss Curve:
+- Accuracy Curve
+- Sample Prediction
 
 ---
 
-### 🧪 Fine-Tuned Model  
-- **Loss & Accuracy Curves**  
-  ![Fine-Tuned Model - Loss Curve](finetune_loss_curve.png)  
-  ![Fine-Tuned Model - Accuracy Curve](finetune_accuracy_curve.png)
+### 🧪 Fine-Tuned Model
+- Loss Curve
+- Accuracy Curve
+- Sample Prediction
+  [finetuned_model.png]
 
 
 
